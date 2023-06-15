@@ -4,7 +4,7 @@
 ## Hi there, My name is Emiola Ridwan Eniola 
 
 
-- 👨🏿‍💻  Full Stack Developer
+- 👨🏿‍💻  Software Developer
 - 🇳🇬   Nigerian
 - 🌱 I’m currently into C#, .Net,  Angular, SQL/Oracle/MySQL, AWS, NodeJS
 - 💬 Ask me about anything related to C#(.Net), SQL, Javascript.
