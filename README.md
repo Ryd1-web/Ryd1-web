@@ -6,7 +6,7 @@
 
 - 👨🏿‍💻  Full Stack Developer
 - 🇳🇬   Nigerian
-- 🌱 I’m currently into C#, .Net,  Angular, SQL/Oracle/MySQL, AWS
+- 🌱 I’m currently into C#, .Net,  Angular, SQL/Oracle/MySQL, AWS, NodeJS
 - 💬 Ask me about anything related to C#(.Net), SQL, Javascript.
 
 ## Connect with me  <img src="Handshake.gif" height="22px">
