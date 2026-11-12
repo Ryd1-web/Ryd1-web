@@ -7,7 +7,7 @@
 - 👨🏿‍💻  Software Developer
 - 🇳🇬   Nigerian
 - 🌱 I’m currently into C#, .Net,  Angular, SQL/Oracle/MySQL, AWS, NodeJS
-- 💬 Ask me about anything related to C#(.Net), SQL, Javascript.
+- 💬 Ask me about anything related to C#(.Net), AI, RAG, SQL, Javascript.
 
 ## Connect with me  <img src="Handshake.gif" height="22px">
 <div align="center">
@@ -15,7 +15,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/ridwan-emiola-6bb982168/" target="_blank">
+<a href="https://www.linkedin.com/in/ridwan-emiola/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:eniola588@gmail.com">
